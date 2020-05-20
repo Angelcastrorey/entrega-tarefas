@@ -25,8 +25,8 @@ para comprobar si la base de tados fue creada
 
 ## Codigo base de datos investigación:
 
-https://github.com/emiliofds1/entrega-tarefas/blob/master/sql/BD_1.sql
+https://github.com/emiliofds1/entrega-tarefas/blob/master/BD_1.sql
 
 ## Codigo base de datos naves espaciales
 
-https://github.com/emiliofds1/entrega-tarefas/blob/master/sql/BD_2.sql
+https://github.com/emiliofds1/entrega-tarefas/blob/master/BD_2.sql
