@@ -9,7 +9,7 @@ Primero tendremos que logearnos como administradores dentro del servidor mediant
 ````
 sudo mysql
 ````
-![Uso do comando](bases/log.PNG)
+![Uso do comando](imagen/log.PNG)
 
 Tras esto ya podremos empezar a introducir instrucciones sql para crear nuestra base de datos.
 
@@ -21,6 +21,6 @@ La otra opción seria tener el código de la base de datos ya preparado en un ar
 sudo mysql < direcciondelarchivo/archivo.sql
 ````
 
-![Uso do comando](bases/create.PNG)
+![Uso do comando](imagen/create.PNG)
 
 Esto ejecutará automaticamente todas las instrucciones y nos permitira replicar esta base datos entro servidor con facilidad. 
